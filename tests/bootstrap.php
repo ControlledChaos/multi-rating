@@ -9,8 +9,8 @@ require_once $_tests_dir . '/includes/functions.php';
 
 function _manually_load_plugin() {
 	
-	// Add your theme …	
-	switch_theme('twentyfifteen');
+	// Add your theme ï¿½	
+	switch_theme('twentyseventeen');
 
 	// Update array with plugins to include ...
 	$plugins_to_active = array(
